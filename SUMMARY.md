@@ -4,15 +4,15 @@
 
 ## 对接指引
 
-* [💡 What we do](dui-jie-zhi-yin/what-we-do.md)
+* [💡 What we do](overview/what-we-do.md)
 
 ## API文档
 
-* [📪 Making a post](api-wen-dang/making-a-post.md)
-* [📎 Understanding Projects](api-wen-dang/understanding-projects.md)
+* [开放API鉴权方式](api-wen-dang/kai-fang-api-jian-quan-fang-shi.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## 附录
 
-* [🛠 Getting set up](fu-lu/getting-set-up/README.md)
-  * [📝 Setting permissions](fu-lu/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fu-lu/getting-set-up/inviting-members.md)
+* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
