@@ -4,7 +4,7 @@
 
 ## 对接指引
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 What we do](dui-jie-zhi-yin/what-we-do.md)
 
 ## API文档
 
@@ -12,8 +12,9 @@
 * [使用OpenSSL来产生RSA密钥](api-wen-dang/rsa-secret-create.md)
 * [回调接口验证方式](api-wen-dang/seller-callback.md)
 * [openApi列表](api-wen-dang/open-api-list.md)
+
 ## 附录
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting set up](fu-lu/getting-set-up/README.md)
+  * [📝 Setting permissions](fu-lu/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fu-lu/getting-set-up/inviting-members.md)
