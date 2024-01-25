@@ -1,8 +1,6 @@
-# 开放API鉴权方式
-
-````markdown
-
-
+---
+title: 开放API鉴权方式
+---
 ## 开放api接口鉴权:
 ### 流程:
 1. 秘钥管理处生成app_key, app_secret, 保存在服务端pay_merchant_secret表中，并透出给商户。
@@ -112,4 +110,3 @@ _注意：将步骤3的结果传入SHA256withRSA进行计算时，要对字符�
 V3pfPN1F3RX9Slak0EOhBmWI79iwmsQTECOLs5HOnLa3AOiYx7pZHMAroA3wJ6ksik1bORwhNVdhIf0jexzisD/SZHMRniZmSd7l6+PLT/iE/sguxyhqyz68tvXGSj5+Bv33cH5JMqIHH6ey4R+ojDgY4/zHKMnsdIkbdyQAk/o=
 ```
 
-````
