@@ -1,24 +1,18 @@
 # Table of contents
 
-* [👋 Welcome to Echoopay](README.md)
+* [👋 Echoopay是什么](README.md)
 
-## Overview
+## 对接指引
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What we do](dui-jie-zhi-yin/what-we-do.md)
 
-## Product Guides
+## API文档
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Making a post](api-wen-dang/making-a-post.md)
+* [📎 Understanding Projects](api-wen-dang/understanding-projects.md)
 
-## Fundamentals
+## 附录
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🛠 Getting set up](fu-lu/getting-set-up/README.md)
+  * [📝 Setting permissions](fu-lu/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fu-lu/getting-set-up/inviting-members.md)
